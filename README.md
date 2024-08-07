@@ -1,11 +1,11 @@
-# Responsive Recipe Card with Astro and Tailwind
+# Responsive Reviews page with Astro and Tailwind
 
 <img src="./public/design/desktop-design.jpg" alt="Recipe" width="500" />
 
 ## Description
 
-This is a frontend project that uses Astro to create a simple and responsive recipe card.
-You can click here 👉 https://recipecard-astro.netlify.app/ to see the page in action.
+This is a frontend project that uses Astro to create a simple and responsive reviews page.
+You can click here 👉 https://reviews-with-astro.netlify.app/ to see the page in action.
 
 ## Technologies Used
 
@@ -17,10 +17,10 @@ You can click here 👉 https://recipecard-astro.netlify.app/ to see the page in
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/cristiancavelasquez/Recipe-page-Astro.git
+   git clone https://github.com/cristiancavelasquez/ReviewsPage
 
 2. Navigate to the project directory:
-   cd Recipe-page-Astro
+   cd ReviewsPage
 
 3. Install dependencies:
    npm install
